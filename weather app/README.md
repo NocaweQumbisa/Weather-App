@@ -1,9 +1,9 @@
  🌦️ Simple Weather App
 
-A lightweight weather app created by **Nocawe Qumbisa**, built using **HTML**, **CSS**, and **JavaScript**.  
-It fetches real-time data from the **OpenWeatherMap API** and displays temperature, weather description, and icons.
+A lightweight weather app created by Nocawe Qumbisa, built using HTML, CSS, and JavaScript.  
+It fetches real-time data from the OpenWeatherMap API and displays temperature, weather description, and icons.
 
----
+
 
 🧠 Features
 - Search weather by city name  
@@ -12,13 +12,14 @@ It fetches real-time data from the **OpenWeatherMap API** and displays temperatu
 - Responsive and clean UI  
 - Created manually without frameworks  
 
----
+
 
 🛠️ Technologies Used
 - HTML5  
 - CSS3  
 - JavaScript (Fetch API)  
 - OpenWeatherMap API  
+
 
 
 
