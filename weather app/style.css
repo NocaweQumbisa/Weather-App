@@ -1,0 +1,61 @@
+/* Weather App by Nocawe Qumbisa */
+
+* {
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: linear-gradient(to bottom right, #1e3c72, #2a5298);
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+}
+
+.wrapper {
+  background: rgba(255, 255, 255, 0.1);
+  padding: 25px;
+  border-radius: 15px;
+  width: 340px;
+  text-align: center;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.search-area {
+  margin-bottom: 15px;
+}
+
+input {
+  width: 65%;
+  padding: 8px;
+  border: none;
+  border-radius: 8px;
+  margin-right: 5px;
+}
+
+button {
+  background-color: #ffc107;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 0.2s;
+}
+
+button:hover {
+  background-color: #ffdb4d;
+}
+
+.weather-box {
+  margin-top: 20px;
+}
+
+footer {
+  margin-top: 20px;
+  font-size: 0.8rem;
+  opacity: 0.8;
+}
